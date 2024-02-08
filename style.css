@@ -53,7 +53,8 @@ button:hover {
 @media (max-width: 800px){
     body{
         background-image: url(./images/bg2.jpg);
-        
+        background-size: cover;
+        margin: 0;
     };
     html {
         background-color: #f4d7da;
